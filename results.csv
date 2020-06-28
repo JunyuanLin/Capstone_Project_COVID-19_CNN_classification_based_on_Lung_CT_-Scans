@@ -1,0 +1,10 @@
+model_name,true_negative,false_positive,false_negative,true_positive
+model1_1,1027,231,337,955
+model1_2,866,392,74,1218
+model1_3,947,311,105,1187
+model2_1,896,395,63,1208
+model2_2,853,438,32,1239
+model3_1,920,321,135,1178
+model3_2,941,300,173,1140
+model3_3,1241,0,1313,0
+model2_3,917,404,50,1206
